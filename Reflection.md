@@ -1,7 +1,7 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
-In this project we use the PID controller to maneuver the vehicle around the lake track in the udacity simulator for term 2 of self driving car nanodegree program. 
+In this project we use the PID controller to manoeuvre the vehicle around the lake track in the udacity simulator for term 2 of self driving car nanodegree program. 
 
 **1. Effect of P,I,D components**
 * P is the component that is proportional to the current track error(cte). It directly impacts the trajectory of the car as it makes the car to correct in the same ratio of current error in the opposite direction.
